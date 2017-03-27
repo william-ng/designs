@@ -1,9 +1,17 @@
 # Some of my designs from the past
 
-## Mobile interface for a sales opportunity management app
-![](https://github.com/william-ng/designs/blob/master/William-Mobile-Design.jpg)
+## UI/UX for a sales opportunity management mobile app
+
+Version ! | Version 2
+------------ | -------------
+[![Version 1](https://william-ng.github.io/assets/images/mobile-app-design-v1.gif)](https://www.youtube.com/watch?v=0JSXAfA46Fk) | [![Version 2](https://william-ng.github.io/assets/images/mobile-app-design-v2.gif)](https://www.youtube.com/watch?v=qDqvhWX_Ngk)
+
+Click on the image to see the full video in HD
 
 -----
 
-## Desktop browser interface for a sales opportunity management app
-![](https://github.com/william-ng/designs/blob/master/William-Desktop-Design.jpg)
+## UI UX for a CRM app on a web browser
+
+[![CRM App](https://william-ng.github.io/assets/images/web-app-design.gif)](https://www.youtube.com/watch?v=42AfoWRVMOw)
+
+Click on the image to see the full video in HD
