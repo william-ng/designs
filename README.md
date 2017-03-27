@@ -1,6 +1,6 @@
 # Some of my designs from the past
 
-## UI/UX for a sales opportunity management mobile app
+## UI/UX Design for a sales opportunity management mobile app
 
 Version ! | Version 2
 ------------ | -------------
@@ -10,7 +10,7 @@ Click on the image to see the full video in HD
 
 -----
 
-## UI/UX for a CRM app on a web browser
+## UI/UX Design for a CRM app on a web browser
 
 [![CRM App](https://william-ng.github.io/assets/images/web-app-design.gif)](https://www.youtube.com/watch?v=42AfoWRVMOw)
 
